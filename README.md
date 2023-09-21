@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/khaled bin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaled bin" height="30" width="40" /></a>
-<a href="https://fb.com/md khaled bin joha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md khaled bin joha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/khaled-bin-a0b501230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaled bin" height="30" width="40" /></a>
+<a href="https://fb.com/khaled.bin.3958" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md khaled bin joha" height="30" width="40" /></a>
 <a href="https://instagram.com/khaled.bin.190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khaled.bin.190" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@kbin3140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kbin3140" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kbin3140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kbin3140" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/kbin314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kbin314" height="30" width="40" /></a>
 </p>
 
