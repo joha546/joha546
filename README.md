@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joha546&label=Profile%20views&color=0e75b6&style=flat" alt="joha546" /> </p>
 
-- 🌱 I’m currently learning **Matplotlib, Machine Learning & Fundamentals of Cloud Computing**
+- 🌱 I’m currently learning **C++ and System Programming**
 
 - 📫 How to reach me **joh60483@gmail.com**
 
